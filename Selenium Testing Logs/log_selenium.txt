@@ -1,0 +1,96 @@
+Running 'UserDashboard'
+04:12:48
+1.
+open on http://localhost:4200/dashboard OK
+04:12:48
+2.
+setWindowSize on 1382x744 OK
+04:12:48
+3.
+click on xpath=//button[@type='submit'] OK
+04:12:48
+4.
+mouseOver on xpath=//button[@type='submit'] OK
+04:12:49
+5.
+mouseOut on xpath=//button[@type='submit'] OK
+04:12:50
+6.
+click on id=name OK
+04:12:50
+7.
+type on id=name with value ram OK
+04:12:50
+8.
+click on id=email OK
+04:12:50
+9.
+type on id=email with value Male OK
+04:12:50
+10.
+click on id=jobTile OK
+04:12:51
+11.
+type on id=jobTile with value 1996 OK
+04:12:51
+12.
+click on id=phone OK
+04:12:51
+13.
+type on id=phone with value Blg OK
+04:12:51
+14.
+click on id=imageUrl OK
+04:12:52
+15.
+type on id=imageUrl with value Ram@gmail.com OK
+04:12:52
+16.
+click on css=#addEmployee .form-group:nth-child(6) > #imageUrl OK
+04:12:52
+17.
+close OK
+04:12:52
+'UserDashboard' completed successfully
+
+
+
+
+
+04:12:52
+Running 'userlogin'
+04:16:05
+1.
+open on http://localhost:4200/login OK
+04:16:05
+2.
+setWindowSize on 1382x744 OK
+04:16:05
+3.
+click on linkText=New user ? Click to sign up OK
+04:16:06
+4.
+click on id=exampleInputPassword1 OK
+04:16:07
+5.
+type on id=exampleInputPassword1 with value Ram OK
+04:16:07
+6.
+click on id=exampleInputPassword2 OK
+04:16:07
+7.
+type on id=exampleInputPassword2 with value 1234567890 OK
+04:16:07
+8.
+click on id=exampleInputEmail3 OK
+04:16:07
+9.
+type on id=exampleInputEmail3 with value ram@gmail.com OK
+04:16:08
+10.
+click on id=exampleInputPassword4 OK
+04:16:08
+11.
+close OK
+04:16:08
+'userlogin' completed successfully
